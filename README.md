@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Data Science & Business Analytics](https://github.com/vanshika89/The-Sparks-Foundation)
 
-- 🌱 I’m currently learning **Data Science Specialisation by @IBM on Coursera**
-
 - 🤝 I’m looking for help with [Customer Behaviour Analysis using Big Data](https://github.com/vanshika89/Customer-Behaviour-Analysis)
 
 - 📫 How to reach me **vanshi892000@gmail.com**
