@@ -1,10 +1,10 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I'm Vanshika Dharwal</h1>
 <h3 align="center">A pre-final year student pursuing Bachelor's in Computer Science from Maharishi Dayanand University, India</h3>
-<img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
-<p align="left">
- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> </p> 
 
 
 - 🔭 I’m currently working on [Data Science & Business Analytics](https://github.com/vanshika89/The-Sparks-Foundation)
@@ -22,8 +22,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> </p>
 
+<img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika89&show_icons=true&locale=en&layout=compact" alt="vanshika89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika89&show_icons=true&locale=en" alt="vanshika89" /></p>
