@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vanshika Dharwal</h1>
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">I'm Vanshika Dharwal</h1>
 <h3 align="center">A pre-final year student pursuing Bachelor's in Computer Science from Maharishi Dayanand University, India</h3>
+<img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
+<p align="left">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> </p>
 
 - 🔭 I’m currently working on [Data Science & Business Analytics](https://github.com/vanshika89/The-Sparks-Foundation)
-
 - 🤝 I’m looking for help with [Customer Behaviour Analysis using Big Data](https://github.com/vanshika89/Customer-Behaviour-Analysis)
-
-- 📫 How to reach me **vanshi892000@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vanshika-dharwal/](https://www.linkedin.com/in/vanshika-dharwal/)
+- 📫 you can reach me to through my [Email](vanshi892000@gmail.com)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vanshika-dharwal/](https://www.linkedin.com/in/vanshika-dharwal/) &nbsp;
+- 👩‍💻 My interest areas include Machine Learning and Deep Learning.
+- I am a competitive programming enthusiast (❁´◡`❁) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika89&show_icons=true&locale=en" alt="vanshika89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika89&" alt="vanshika89" /></p>
+
