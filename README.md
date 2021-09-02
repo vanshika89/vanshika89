@@ -1,6 +1,6 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I'm Vanshika Dharwal</h1>
-<h3 align="center">A pre-final year student pursuing Bachelor's in Computer Science from Maharshi Dayanand University, India</h3>
+<h3 align="center">I am pursuing Bachelor's in Computer Science from Maharshi Dayanand University, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
