@@ -6,9 +6,6 @@
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> </p> 
 
-
-- 🔭 I’m currently working on [Data Science & Business Analytics](https://github.com/vanshika89/The-Sparks-Foundation)
-- 🤝 I’m looking for help with [Customer Behaviour Analysis using Big Data](https://github.com/vanshika89/Customer-Behaviour-Analysis)
 - 📫 you can reach me to through my [Email](vanshi892000@gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanshika-dharwal/](https://www.linkedin.com/in/vanshika-dharwal/)
 - 👩‍💻 My interest areas include Machine Learning and Deep Learning.
