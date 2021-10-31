@@ -9,7 +9,7 @@
 - 📫 you can reach me to through my [Email](vanshi892000@gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanshika-dharwal/](https://www.linkedin.com/in/vanshika-dharwal/)
 - 👩‍💻 My interest areas include Machine Learning and Deep Learning.
-- I am a competitive programming enthusiast (❁´◡`❁)&nbsp; 
+ (❁´◡`❁)&nbsp; 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vanshika-dharwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika-dharwal" height="30" width="40" /></a>
