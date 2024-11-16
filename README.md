@@ -1,12 +1,12 @@
-# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I'm Vanshika Dharwal</h1>
-<h3 align="center">Associate Software Engineer at Legato Health Technologies</h3>
+<h3 align="center">Full-Stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> </p> 
 
-- 📫 you can reach me to through my [Email](vanshi892000@gmail.com)
+- 📫 you can reach me through my [Email](vanshi892000@gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanshika-dharwal/](https://www.linkedin.com/in/vanshika-dharwal/)
 - 👩‍💻 My interest areas include Machine Learning and Deep Learning.
  (❁´◡`❁)&nbsp; 
