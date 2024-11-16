@@ -1,110 +1,103 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <h1 align="center">I'm Vanshika Dharwal</h1>
-<h3 align="center">Freelance Full-Stack Web Developer</h3>
+<h3 align="center">Freelance Full-Stack Web Developer | Machine Learning Enthusiast</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" /> 
+  <img src="https://komarev.com/ghpvc/?username=vanshika89&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika89" />
 </p>
 
-- 💼 **Freelance Full-Stack Developer** with a passion for building scalable web applications.
-- 🛠️ Expertise in both **front-end** and **back-end** technologies.
-- 🌐 I specialize in **React.js**, **Node.js**, **Django**, **Flask**, and **MongoDB**, creating robust and interactive web solutions.
-- 📩 **Let's work together!** Reach out to discuss your next project via [Email](mailto:vanshi892000@gmail.com).
-- 🌱 Always learning and exploring new technologies, with a focus on **Machine Learning** and **Deep Learning**.
+## About Me
+I'm a passionate **Full-Stack Web Developer** with expertise in creating dynamic, responsive, and scalable web applications. With experience in **React**, **Django**, **Flask**, and **MongoDB**, I bring your web project ideas to life, focusing on functionality, performance, and user experience. Whether you need a stunning **frontend**, a powerful **backend**, or **machine learning** integration, I’ve got you covered!
 
----
+📫 Reach me at: [vanshi892000@gmail.com](mailto:vanshi892000@gmail.com)  
+📄 Explore my work and experiences on [LinkedIn](https://www.linkedin.com/in/vanshika-dharwal/)
 
-### 🛠️ **Technologies & Tools I Work With:**
+## Skills & Technologies
 
-- **Front-End:**
-  - 🖥️ **React.js** – Building dynamic, responsive user interfaces.
-  - 💅 **CSS3** & **HTML5** – Crafting modern layouts and designs.
+### Frontend Development:
+- **React.js** – Building interactive and high-performance UIs.
+- **HTML5/CSS3** – Crafting semantic, accessible, and responsive layouts.
 
-- **Back-End:**
-  - ⚙️ **Node.js** & **Express.js** – Creating fast and scalable back-end services.
-  - 🐍 **Python** – For powerful back-end logic, data analysis, and AI/ML integration.
-  - 🖧 **Django** & **Flask** – Developing secure and robust web applications.
+### Backend Development:
+- **Node.js** – Creating fast, scalable server-side applications.
+- **Django/Flask** – Python-based frameworks for full-stack development.
 
-- **Database:**
-  - 💾 **MongoDB** – NoSQL database for fast, scalable applications.
-  - 🗄️ **SQLite** – Lightweight, serverless database for smaller projects.
-  - 🔐 **SQL** – Relational database management (PostgreSQL, MySQL, etc.).
+### Databases:
+- **MongoDB** – NoSQL database for flexible data modelling.
+- **MySQL/PostgreSQL** – Relational databases with powerful querying capabilities.
 
-- **DevOps & Others:**
-  - ⚡ **Git & GitHub** – Version control and collaboration.
-  - 🔌 **Docker** – Containerizing applications for consistency and scalability.
+### Machine Learning:
+- **Python** – Expertise in developing ML/DL models using libraries like **TensorFlow**, **Keras**, and **Scikit-learn**.
 
----
+### DevOps & Version Control:
+- **Git/GitHub** – Collaborative version control for code management.
+- **Docker** – Containerizing apps for easier deployment and scalability.
 
-### 🚀 **What I Do:**
-- **Custom Web Development**: Build end-to-end web solutions using modern technologies.
-- **E-Commerce Websites**: Develop e-commerce platforms with smooth user experiences and secure payment integrations.
-- **API Integration**: Integrate third-party APIs and optimize back-end systems.
-- **Machine Learning Models**: Build AI/ML models and integrate them into web applications.
-- **Web App Optimization**: Improve site performance, SEO, and scalability.
-  
----
+### Cloud Services:
+- **AWS** – Hosting apps on AWS EC2, S3, and RDS for robust cloud computing solutions.
 
-### 💬 **How Can I Help You?**
-- ✅ Need a full-stack web solution for your business or startup? Let's create it from scratch or improve your existing system.
-- ✅ Seeking a reliable developer for **React** and **Django** projects? I’ve got you covered!
-- ✅ Looking for an **e-commerce website** or custom API development? I'm happy to assist!
+## My Projects
+- 💻 **E-Commerce Website** – A fully functional, user-friendly shopping platform with real-time features like product search, cart management, and payment gateway integration.
+- 📊 **Machine Learning Model** – Developed a predictive model to forecast sales trends, deployed using **Flask** and integrated into a web interface.
+- 📝 **Personal Portfolio** – A custom-built portfolio website to showcase my projects, with interactive elements using **React** and **Firebase** as the backend.
 
----
+> **Check out my GitHub** to explore more projects and see how I turn ideas into functional web solutions!
 
-### 📚 **My Journey & Experience:**
+## How I Can Help You
+I specialize in delivering web solutions that meet your needs while maintaining high code quality and scalability standards. Here’s how I can assist you:
 
-I have worked with various clients across industries, providing them with **full-stack web solutions**, including custom web apps, integrations, e-commerce platforms, and more. With a focus on clean code and scalability, I ensure that every project I work on delivers top-tier performance and user experience.
+- **Custom Web Development**: From landing pages to full-fledged web applications.
+- **UI/UX Design**: Interactive, responsive, modern designs.
+- **Consulting**: Need advice on a web project? I can guide you through architecture, technology choices, and best practices.
+- **E-Commerce Solutions**: Build, scale, and maintain your online store with secure and seamless experiences.
 
-**Check out my LinkedIn to see my past projects and recommendations**: [LinkedIn Profile](https://www.linkedin.com/in/vanshika-dharwal/)
+## Connect with Me
+Let’s chat about your next project! Whether you need a website, a web application, or machine learning integration, I’m here to bring your ideas to life.  
 
----
+- LinkedIn: [Vanshika Dharwal](https://linkedin.com/in/vanshika-dharwal)  
+- Kaggle: [Vanshika’s Kaggle](https://kaggle.com/vanshikadharwal)  
+- GitHub: [Vanshika’s GitHub](https://github.com/vanshika89)
 
-### 🏆 **Client Testimonials:**
-*Coming soon...*  
-(Feel free to share some client feedback or reviews you have received, or simply leave a placeholder for future updates.)
+## Languages & Tools
 
----
+<p align="left"> 
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a> 
 
-### 📈 **GitHub Stats & Projects:**
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="40" height="40"/>
+  </a> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika89&show_icons=true&locale=en&hide=prs" alt="vanshika89" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika89&show_icons=true&locale=en&layout=compact" alt="vanshika89" />
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.png" alt="Flask" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika89&" alt="vanshika89" />
-</p>
+## GitHub Stats:
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika89&show_icons=true&locale=en&layout=compact" alt="vanshika89" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika89&show_icons=true&locale=en" alt="vanshika89" /></p>
 
-### 📬 **Let's Collaborate!**
-- I’m always open to new opportunities and interesting projects.
-- Reach out to discuss how I can help your business grow, enhance your product, or develop the perfect web solution.
-- **Email**: [vanshi892000@gmail.com](mailto:vanshi892000@gmail.com)  
-- **LinkedIn**: [Vanshika Dharwal](https://www.linkedin.com/in/vanshika-dharwal/)
-
----
-
-### 🚀 **My Skill Set:**
-**Front-End:**  
-- React.js, Redux, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Material UI
-
-**Back-End:**  
-- Node.js, Express.js, Django, Flask, Python, REST APIs, GraphQL
-
-**Database:**  
-- MongoDB, PostgreSQL, MySQL, SQLite
-
-**Version Control & Others:**  
-- Git, GitHub, Docker, Firebase, AWS, Heroku
-
----
-
-### 💼 **Let’s Build Your Next Project Together!**
-- If you're looking for a **dedicated, professional**, and **efficient developer**, I would love to collaborate and help you build your vision. I'm here to assist whether you need a **custom web app**, a **dynamic React UI**, or a **robust back-end API**.
-
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika89&" alt="vanshika89" /></p>
